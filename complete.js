@@ -11,6 +11,7 @@ var sprites= {};
 //x and y represents location of the enemy blocks.
 //w and h represents width and height of enemy blocks.
 //speedY represents, spped at which enemy blocks move.
+
 var enemies = [
     {x:100,
     y: 100,
